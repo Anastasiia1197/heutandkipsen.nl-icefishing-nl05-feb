@@ -27,13 +27,13 @@
 }
 
 :root {
-	--background: #0a192f;
-	--header: linear-gradient(-45deg, #0047ab, #c2410c, #fbbf24);
-	--btn: #facc15;
-	--promo: rgba(250, 204, 21, 0.15);
-	--table: rgba(16, 32, 60, 0.9);
-	--white: #f0f9ff;
-	--black: #081221;
+	--background: #0f172a;
+	--header: linear-gradient(-45deg, #1e293b, #64748b, #cbd5e1);
+	--btn: #94a3b8;
+	--promo: rgba(148, 163, 184, 0.15);
+	--table: rgba(30, 41, 59, 0.85);
+	--white: #f8fafc;
+	--black: #020617;
 	--title: #ffffff;
 }
 
@@ -221,7 +221,7 @@ header img {
 	height: 100px;
 	background: var(--header);
 	box-shadow:
-		0 0 50px rgba(185, 21, 250, 0.4),
+		0 0 50px rgba(222, 218, 224, 0.4),
 		inset 10px -10px 20px rgba(0, 0, 0, 0.1);
 	border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
 	animation:
